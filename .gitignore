@@ -1,0 +1,4 @@
+.idea/
+
+#.gitignore tells Git which files or folders to ignore—so they don’t get tracked or pushed to your repository.
+# It’s useful for excluding things like build files, logs, IDE settings, or sensitive info.
