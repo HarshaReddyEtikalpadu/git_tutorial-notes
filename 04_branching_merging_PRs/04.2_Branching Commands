@@ -1,0 +1,11 @@
+# Key Git Branching Commands
+
+| Command                       | What it does                                      |
+|------------------------------ |-----------------------------------------------|
+| `git branch`                  | Lists all branches in your repo                |
+| `git branch <branch-name>`    | Creates a new branch called `<branch-name>`   |
+| `git checkout <branch-name>`  | Switches to branch `<branch-name>`             |
+| `git switch <branch-name>`    | (Newer alternative) Switches to the branch    |
+| `git checkout -b <branch-name>| Creates and switches to a new branch in one step |
+| `git merge <branch-name>`     | Merges changes from `<branch-name>` into current branch |
+| `git branch -d <branch-name>` | Deletes the specified branch                    |
